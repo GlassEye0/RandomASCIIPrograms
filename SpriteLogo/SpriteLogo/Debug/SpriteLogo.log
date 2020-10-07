@@ -1,0 +1,20 @@
+﻿  main.c
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(9,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(10,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(10,9): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(11,9): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(11,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(11,9): warning C4129: 'o': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(12,9): warning C4129: 'o': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(12,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(12,9): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(13,9): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(13,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(13,9): warning C4129: 'o': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(14,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(14,9): warning C4129: 'o': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(15,9): warning C4129: 'o': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(15,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(16,9): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Defo\source\repos\SpriteLogo\SpriteLogo\main.c(19,9): warning C4129: '_': unrecognized character escape sequence
+  SpriteLogo.vcxproj -> C:\Users\Defo\source\repos\SpriteLogo\Debug\SpriteLogo.exe
