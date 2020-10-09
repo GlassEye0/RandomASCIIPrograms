@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Build Template</name>
+  <coder>Steveice10</coder>
+  <version>0.0.0</version>
+  <release_date>20201005140056</release_date>
+  <short_description>Build template.</short_description> 
+  <long_description>Build template.</long_description> 
+</app>
